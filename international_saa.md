@@ -1,14 +1,4 @@
-Equity
-- CSPX - 15%
-- CNDX - 10%
-- IWMO - 10%
-- IFSW - 10%
-
-Debt
-- AGAC - 25%
-
-REIT
-- DPYA - 15%
-
-Commodities
-- ROLL - 15%
+| **Sl. No.** | **ETF** | **Name**                                   | **Allocation** |
+|:------------|:--------|:-------------------------------------------|:--------------:|
+| 1.          | RSST    | Return Stacked US Stocks & Managed Futures |            50% |
+| 2.          | RSBT    | Return Stacked Bonds & Managed Futures     |            50% |
