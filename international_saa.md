@@ -1,3 +1,5 @@
+# International Allocation
+
 | **Sl. No.** | **Asset Class** | **ETF** | **Name**                                                       | **Allocation** |
 |:------------|:----------------|:--------|:---------------------------------------------------------------|:--------------:|
 | 1.          | Equity          | CSPX    | iShares Core S&P 500 UCITS ETF                                 |       15%      |
