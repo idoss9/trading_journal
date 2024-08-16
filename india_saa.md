@@ -71,6 +71,8 @@ Rebalance - When any allocation changes by more than ±27%.
     - Allocation - 2% on each trade.
 - Others / Experimentals.
 
+</br>
+
 ---
 
 </br>
