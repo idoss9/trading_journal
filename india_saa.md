@@ -1,7 +1,6 @@
 <img alt="Trading Journal Logo" src="files/saa_logo.svg" width="15.3%" align="right">
 
 # <a id="jrnl"> Strategic Asset Allocation </a>
-### Proprietary Trading of Doss Capital
 
 </br>
 
