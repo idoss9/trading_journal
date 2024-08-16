@@ -77,5 +77,5 @@ Rebalance - When any allocation changes by more than ±27%.
 </br>
 
 <p align="center">
-<img alt="All Rights Reserved Logo" src="files/all_rights_reserved_logo.svg" width="113">
+<img alt="All Rights Reserved Logo" src="files/cc_by_sa.svg" width="113">
 </p>
