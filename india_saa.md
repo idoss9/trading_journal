@@ -41,7 +41,7 @@ Rebalance - When any allocation changes by more than ±27%.
 
 ### **<a id="dmom"> Dual Momentum (27%) </a>** &nbsp; <a href="#jrnl"> ⬆️ </a>
 - Universe
-    - Nifty 50, Nifty Midcap Select, Gold, Silver, Crude Oil, Copper, Zinc, USDINR, EURINR.
+    - Nifty 50, Nifty Midcap Select, Gold, Silver, Crude Oil, Copper, Zinc, Aluminium.
 - Volatility Target - 7% - 27%.
 - Review - Weekly.
 
