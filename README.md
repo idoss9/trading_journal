@@ -16,7 +16,7 @@
 | 3        |  Equity                            |                      18% |
 | 4        |  Discretionary                     |                      19% |
 
-- Detailed [Strategic Asset Allocation](saa.md).
+- Detailed [Strategic Asset Allocation](india_saa.md).
 
 - Benchmark - [SBI Multi Asset Allocation Fund](https://www.valueresearchonline.com/funds/17657/sbi-multi-asset-allocation-fund-direct-plan/).</br>
 
@@ -25,5 +25,5 @@
 </br>
 
 <p align="center">
-<img alt="All Rights Reserved Logo" src="files/all_rights_reserved_logo.svg" width="113">
+<img alt="All Rights Reserved Logo" src="files/cc_by_sa.svg" width="113">
 </p>
