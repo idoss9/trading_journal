@@ -7,7 +7,7 @@
 
 ---
 
-### **Strategic Asset Allocation**
+### **India Strategic Asset Allocation**
 
 | Sl. No.  | Particulars                        |&nbsp; &nbsp;  Allocation |
 |:---------|:-----------------------------------|-------------------------:|
@@ -15,8 +15,8 @@
 | 2        |  Dual Momentum      &nbsp;         |                      27% |
 | 3        |  Equity                            |                      18% |
 | 4        |  Discretionary                     |                      19% |
-
-- Detailed [Strategic Asset Allocation](india_saa.md).
+    
+- Detailed [India - Strategic Asset Allocation](india_saa.md).
 
 - Benchmark - [SBI Multi Asset Allocation Fund](https://www.valueresearchonline.com/funds/17657/sbi-multi-asset-allocation-fund-direct-plan/).</br>
 
