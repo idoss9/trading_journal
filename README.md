@@ -1,7 +1,6 @@
 <img alt="Trading Journal Logo" src="files/trading_journal_logo.svg" width="10.8%" align="right">
 
 # <a id="jrnl"> Trading Journal </a>
-### Proprietary Trading of Doss Capital
 
 </br>
 
