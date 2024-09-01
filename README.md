@@ -19,6 +19,15 @@
 
 - Benchmark - [SBI Multi Asset Allocation Fund](https://www.valueresearchonline.com/funds/17657/sbi-multi-asset-allocation-fund-direct-plan/).</br>
 
+### **International Strategic Asset Allocation**
+
+| Sl. No.  | Particulars                        |&nbsp; &nbsp;  Allocation |
+|:---------|:-----------------------------------|-------------------------:|
+| 1        |  Equity                            |                     100% |
+    
+- Detailed [International - Strategic Asset Allocation](international_saa.md).
+
+
 ---
 
 </br>
