@@ -14,4 +14,4 @@
 
 </br>
 
-Rebalance - When any allocation changes by more than ±27%.
+Rebalance - Every two years.
