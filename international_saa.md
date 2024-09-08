@@ -14,4 +14,5 @@
 
 </br>
 
-Rebalance - Every two years.
+Rebalance - Annually.
+    
