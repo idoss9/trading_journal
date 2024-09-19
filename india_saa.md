@@ -20,6 +20,7 @@
 </br>
 
 Benchmark - [SBI Multi Asset Allocation Fund](https://www.valueresearchonline.com/funds/17657/sbi-multi-asset-allocation-fund-direct-plan/).</br>
+Secondary Benchmark - [Nippon India ETF Nifty 50 BeES](https://www.google.com/finance/quote/NIFTYBEES:NSE). </br>
 Rebalance - When any allocation changes by more than ±27%.
 
 ---
