@@ -17,7 +17,8 @@
     
 - Detailed [India - Strategic Asset Allocation](india_saa.md).
 
-- Benchmark - [SBI Multi Asset Allocation Fund](https://www.valueresearchonline.com/funds/17657/sbi-multi-asset-allocation-fund-direct-plan/).</br>
+- Benchmark - [SBI Multi Asset Allocation Fund](https://www.valueresearchonline.com/funds/17657/sbi-multi-asset-allocation-fund-direct-plan/).  
+  Secondary Benchmark - [Nippon India ETF Nifty 50 BeES](https://www.google.com/finance/quote/NIFTYBEES:NSE). </br>
 
 <br>
 
