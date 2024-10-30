@@ -60,9 +60,9 @@ Rebalance - When any allocation changes by more than ±27%.
 
 ### **<a id="disc"> Discretionary (19%) </a>** &nbsp; <a href="#jrnl"> ⬆️ </a>
 - Passive
-    - [SBI Multi Asset Allocation Fund](https://www.valueresearchonline.com/funds/17657/sbi-multi-asset-allocation-fund-direct-plan/).
-    - [IPru Multi Asset Fund](https://www.valueresearchonline.com/funds/15945/icici-prudential-multi-asset-fund-direct-plan/).
-    - [ABSL Multi Asset Allocation Fund](https://www.valueresearchonline.com/funds/43042/aditya-birla-sun-life-multi-asset-allocation-fund-direct-plan/).
+    - [Nippon India ETF Nifty 50 BeES](https://www.valueresearchonline.com/funds/1171/nippon-india-etf-nifty-50-bees/).
+    - [Nippon India ETF Gold BeES](https://www.valueresearchonline.com/funds/4957/nippon-india-etf-gold-bees/).
+    - [Nippon India ETF Nifty 5 yr Benchmark G-Sec](https://www.valueresearchonline.com/funds/41391/nippon-india-etf-nifty-5-yr-benchmark-g-sec/).
 - Long / Short.
 - Technical Trading
     - Universe - Listed securities in NSE and MCX.
