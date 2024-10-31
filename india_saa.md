@@ -62,7 +62,7 @@ Rebalance - When any allocation changes by more than ±27%.
 - Passive
     - [Zerodha Nifty Midcap 150 ETF](https://www.valueresearchonline.com/funds/44359/zerodha-nifty-midcap-150-etf).
     - [Nippon India ETF Gold BeES](https://www.valueresearchonline.com/funds/4957/nippon-india-etf-gold-bees/).
-    - [Nippon India ETF Nifty 5 yr Benchmark G-Sec](https://www.valueresearchonline.com/funds/41391/nippon-india-etf-nifty-5-yr-benchmark-g-sec/).
+    - [Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt](https://www.valueresearchonline.com/funds/32557/nippon-india-etf-nifty-8-13-yr-g-sec-long-term-gilt/).
 - Long / Short.
 - Technical Trading
     - Universe - Listed securities in NSE and MCX.
