@@ -34,7 +34,7 @@ Rebalance - When any allocation changes by more than ±27%.
 - [SBI Magnum Gilt Fund](https://www.valueresearchonline.com/funds/17166/sbi-magnum-gilt-fund-direct-plan/).
 - [IPru Gilt Fund](https://www.valueresearchonline.com/funds/15953/icici-prudential-gilt-fund-direct-plan/).
 - [ABSL Government Securities Fund](https://www.valueresearchonline.com/funds/15896/aditya-birla-sun-life-government-securities-fund-direct-plan/).
-- [ICICI Prudential Nifty Alpha Low Volatility 30 ETF](https://www.valueresearchonline.com/funds/41071/icici-prudential-nifty-alpha-low-volatility-30-etf).
+- [Zerodha Nifty 100 ETF](https://www.valueresearchonline.com/funds/44358/zerodha-nifty-100-etf/).
 - [Motilal Oswal NASDAQ 100 ETF](https://www.valueresearchonline.com/funds/12498/motilal-oswal-nasdaq-100-etf).
 - [Zerodha Gold ETF](https://www.valueresearchonline.com/funds/44177/zerodha-gold-etf).
     
@@ -60,7 +60,7 @@ Rebalance - When any allocation changes by more than ±27%.
 
 ### **<a id="disc"> Discretionary (19%) </a>** &nbsp; <a href="#jrnl"> ⬆️ </a>
 - Passive
-    - [Nippon India ETF Nifty 50 BeES](https://www.valueresearchonline.com/funds/1171/nippon-india-etf-nifty-50-bees/).
+    - [Zerodha Nifty Midcap 150 ETF](https://www.valueresearchonline.com/funds/44359/zerodha-nifty-midcap-150-etf).
     - [Nippon India ETF Gold BeES](https://www.valueresearchonline.com/funds/4957/nippon-india-etf-gold-bees/).
     - [Nippon India ETF Nifty 5 yr Benchmark G-Sec](https://www.valueresearchonline.com/funds/41391/nippon-india-etf-nifty-5-yr-benchmark-g-sec/).
 - Long / Short.
