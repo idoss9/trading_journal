@@ -34,7 +34,7 @@ Rebalance - When any allocation changes by more than ±27%.
 - [SBI Magnum Gilt Fund](https://www.valueresearchonline.com/funds/17166/sbi-magnum-gilt-fund-direct-plan/).
 - [IPru Gilt Fund](https://www.valueresearchonline.com/funds/15953/icici-prudential-gilt-fund-direct-plan/).
 - [ABSL Government Securities Fund](https://www.valueresearchonline.com/funds/15896/aditya-birla-sun-life-government-securities-fund-direct-plan/).
-- [ICICI Prudential Nifty 200 Momentum 30 Index Fund](https://www.valueresearchonline.com/funds/42381/icici-prudential-nifty-200-momentum-30-index-fund-direct-plan/).
+- [Nippon India Nifty Alpha Low Volatility 30 Index Fund](https://www.valueresearchonline.com/funds/42413/nippon-india-nifty-alpha-low-volatility-30-index-fund-direct-plan/).
 - [Motilal Oswal NASDAQ 100 ETF](https://www.valueresearchonline.com/funds/12498/motilal-oswal-nasdaq-100-etf).
 - [Zerodha Gold ETF](https://www.valueresearchonline.com/funds/44177/zerodha-gold-etf).
     
