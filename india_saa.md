@@ -62,7 +62,7 @@ Rebalance - When any allocation changes by more than ±27%.
 - Passive
     - [Motilal Oswal Nifty 500 Momentum 50 Index Fund](https://www.valueresearchonline.com/funds/44554/motilal-oswal-nifty-500-momentum-50-index-fund-direct-plan/).
     - [Nippon India ETF Gold BeES](https://www.valueresearchonline.com/funds/4957/nippon-india-etf-gold-bees/).
-    - [Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt](https://www.valueresearchonline.com/funds/32557/nippon-india-etf-nifty-8-13-yr-g-sec-long-term-gilt/).
+    - [Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund](https://www.valueresearchonline.com/funds/43109/edelweiss-crisil-ibx-5050-gilt-plus-sdl-short-duration-index-fund-direct-plan/).
 - Long / Short.
 - Technical Trading
     - Universe - Listed securities in NSE and MCX.
