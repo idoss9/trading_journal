@@ -61,8 +61,8 @@ Rebalance - When any allocation changes by more than ±27%.
 ### **<a id="disc"> Discretionary (19%) </a>** &nbsp; <a href="#jrnl"> ⬆️ </a>
 - Passive
     - [Motilal Oswal Nifty 500 Momentum 50 Index Fund](https://www.valueresearchonline.com/funds/44554/motilal-oswal-nifty-500-momentum-50-index-fund-direct-plan/).
+    - [Mirae Asset S&P 500 Top 50 ETF](https://www.valueresearchonline.com/funds/41698/mirae-asset-sp-500-top-50-etf/).
     - [Nippon India ETF Gold BeES](https://www.valueresearchonline.com/funds/4957/nippon-india-etf-gold-bees/).
-    - [Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund](https://www.valueresearchonline.com/funds/43109/edelweiss-crisil-ibx-5050-gilt-plus-sdl-short-duration-index-fund-direct-plan/).
 - Long / Short.
 - Technical Trading
     - Universe - Listed securities in NSE and MCX.
