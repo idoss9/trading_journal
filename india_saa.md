@@ -61,7 +61,7 @@ Rebalance - When any allocation changes by more than ±27%.
 ### **<a id="disc"> Discretionary (19%) </a>** &nbsp; <a href="#jrnl"> ⬆️ </a>
 - Passive
     - [Motilal Oswal Nifty 500 Momentum 50 Index Fund](https://www.valueresearchonline.com/funds/44554/motilal-oswal-nifty-500-momentum-50-index-fund-direct-plan/).
-    - [Motilal Oswal NASDAQ 100 ETF](https://www.valueresearchonline.com/funds/12498/motilal-oswal-nasdaq-100-etf).
+    - [Axis Global Equity Alpha FoF](https://www.valueresearchonline.com/funds/41100/axis-global-equity-alpha-fof-direct-plan/).
     - [Nippon India ETF Gold BeES](https://www.valueresearchonline.com/funds/4957/nippon-india-etf-gold-bees/).
 - Long / Short.
 - Technical Trading
