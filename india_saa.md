@@ -34,9 +34,9 @@ Rebalance - When any allocation changes by more than ±27%.
 - [SBI Magnum Gilt Fund](https://www.valueresearchonline.com/funds/17166/sbi-magnum-gilt-fund-direct-plan/).
 - [IPru Gilt Fund](https://www.valueresearchonline.com/funds/15953/icici-prudential-gilt-fund-direct-plan/).
 - [ABSL Government Securities Fund](https://www.valueresearchonline.com/funds/15896/aditya-birla-sun-life-government-securities-fund-direct-plan/).
-- [Edelweiss Nifty 500 Multicap Momentum Quality 50 Index Fund](https://www.valueresearchonline.com/funds/44648/edelweiss-nifty500-multicap-momentum-quality-50-index-fund-direct-plan).
+- [Nippon India Nifty Alpha Low Volatility 30 Index Fund](https://www.valueresearchonline.com/funds/42413/nippon-india-nifty-alpha-low-volatility-30-index-fund-direct-plan/).
 - [Motilal Oswal NASDAQ 100 ETF](https://www.valueresearchonline.com/funds/12498/motilal-oswal-nasdaq-100-etf).
-- [Zerodha Gold ETF](https://www.valueresearchonline.com/funds/44177/zerodha-gold-etf).
+- [Nippon India ETF Gold BeES](https://www.valueresearchonline.com/funds/4957/nippon-india-etf-gold-bees/).
     
 </br>
 
@@ -60,9 +60,9 @@ Rebalance - When any allocation changes by more than ±27%.
 
 ### **<a id="disc"> Discretionary (19%) </a>** &nbsp; <a href="#jrnl"> ⬆️ </a>
 - Passive
-    - [Motilal Oswal Nifty 500 Momentum 50 Index Fund](https://www.valueresearchonline.com/funds/44554/motilal-oswal-nifty-500-momentum-50-index-fund-direct-plan/).
+    - [Edelweiss Nifty Midcap150 Momentum 50 Index Fund](https://www.valueresearchonline.com/funds/42812/edelweiss-nifty-midcap150-momentum-50-index-fund-direct-plan/).
     - [Axis Global Equity Alpha FoF](https://www.valueresearchonline.com/funds/41100/axis-global-equity-alpha-fof-direct-plan/).
-    - [Nippon India ETF Gold BeES](https://www.valueresearchonline.com/funds/4957/nippon-india-etf-gold-bees/).
+    - [HDFC Gold ETF](https://www.valueresearchonline.com/funds/11314/hdfc-gold-etf/).
 - Long / Short.
 - Technical Trading
     - Universe - Listed securities in NSE and MCX.
