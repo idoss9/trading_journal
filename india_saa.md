@@ -34,7 +34,7 @@ Rebalance - When any allocation changes by more than ±27%.
 - [SBI Magnum Gilt Fund](https://www.valueresearchonline.com/funds/17166/sbi-magnum-gilt-fund-direct-plan/).
 - [IPru Gilt Fund](https://www.valueresearchonline.com/funds/15953/icici-prudential-gilt-fund-direct-plan/).
 - [ABSL Government Securities Fund](https://www.valueresearchonline.com/funds/15896/aditya-birla-sun-life-government-securities-fund-direct-plan/).
-- [Nippon India Nifty Alpha Low Volatility 30 Index Fund](https://www.valueresearchonline.com/funds/42413/nippon-india-nifty-alpha-low-volatility-30-index-fund-direct-plan/).
+- [Bandhan Nifty Alpha 50 Index Fund](https://www.valueresearchonline.com/funds/43864/bandhan-nifty-alpha-50-index-fund-direct-plan/).
 - [Motilal Oswal NASDAQ 100 ETF](https://www.valueresearchonline.com/funds/12498/motilal-oswal-nasdaq-100-etf).
 - [Nippon India ETF Gold BeES](https://www.valueresearchonline.com/funds/4957/nippon-india-etf-gold-bees/).
     
@@ -60,7 +60,7 @@ Rebalance - When any allocation changes by more than ±27%.
 
 ### **<a id="disc"> Discretionary (19%) </a>** &nbsp; <a href="#jrnl"> ⬆️ </a>
 - Passive
-    - [Edelweiss Nifty Midcap150 Momentum 50 Index Fund](https://www.valueresearchonline.com/funds/42812/edelweiss-nifty-midcap150-momentum-50-index-fund-direct-plan/).
+    - [Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF FoF](https://www.valueresearchonline.com/funds/44305/mirae-asset-nifty-midsmallcap400-momentum-quality-100-etf-fof-direct-plan/).
     - [Motilal Oswal NASDAQ 100 ETF](https://www.valueresearchonline.com/funds/12498/motilal-oswal-nasdaq-100-etf).
     - [Nippon India ETF Gold BeES](https://www.valueresearchonline.com/funds/4957/nippon-india-etf-gold-bees/).
 - Long / Short.
