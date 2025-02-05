@@ -26,9 +26,9 @@
 
 | Sl. No.  | Particulars                        |&nbsp; &nbsp;  Allocation |
 |:---------|:-----------------------------------|-------------------------:|
-| 1        |  Equity                            |                      55% |
-| 2        |  Debt                              |                      15% |
-| 3        |  Real Estate                       |                      15% |
+| 1        |  Equity                            |                      45% |
+| 2        |  Debt                              |                      20% |
+| 3        |  Real Estate                       |                      20% |
 | 4        |  Commodities                       |                      15% |
     
 - Detailed [International - Strategic Asset Allocation](international_saa.md).
